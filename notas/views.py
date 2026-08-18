@@ -7,4 +7,5 @@ def inicio(request):
         "<h1>Notas Colab</h1><p>Tus ideas, en orden.</p>"
         f"<p>Notas guardadas: {notas}</p>"
         "<footer>Notas Colab 226</footer>"
+        "<p>DEBUG MODE ON</p>"
     )
