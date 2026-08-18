@@ -6,5 +6,5 @@ def inicio(request):
     return HttpResponse(
         "<h1>Notas Colab</h1><p>Tus ideas, en orden.</p>"
         f"<p>Notas guardadas: {notas}</p>"
-        "<footer>Notas Colab 226</footer>"
+        "<footer>Notas Colab 2026</footer>"
     )
